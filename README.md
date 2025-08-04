@@ -78,7 +78,7 @@ This is a full-stack AI-powered chatbot application using **Java Spring Boot** f
 
 ## 📷 UI Preview
 
-![Chat UI Preview](preview.png)
+![Chat UI Preview](![alt text](image.png))
 
 ---
 
